@@ -1,1 +1,1 @@
-# CALCULATING-POTENTIAL-TEMPERATURE-FORTRAN-
+Using fortran to calculate potential temperature
